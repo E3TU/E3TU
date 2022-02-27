@@ -5,7 +5,7 @@
   Name: E3TU
   Favorite Language: Javascript
   Projects: e3tu.github.io
-  Operating System: Linux Mint
+  Operating System: Linux-Mint
   Desktop environment: Cinnamon
   Editor: Vscodium
   Uptime: Yes
