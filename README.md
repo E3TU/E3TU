@@ -8,7 +8,7 @@
   Operating System: Linux-Mint
   Desktop environment: Cinnamon
   Editor: Vscodium
-  Uptime: Yes
+  Uptime: Unknown
   -----------------------------
   ```
 
