@@ -1,20 +1,12 @@
-MMMMMMMMWN0kdlc:;,,,,,,;:cldk0NWMMMMMMMM
-MMMMMWN0dc;,,,,,,,,,,,,,,,,,,;cd0NWMMMMM
-MMMWXkl;,,,,,,,,,;;;,,,,,,,,,,,,;lkXWMMM
-MMW0l;,,,,,,,;ldO00OOOOkxdl:,,,,,,;l0WMM
-MNx:,,,,,,,:d0XX0xooooodx0XKkc,,,,,,:xNW
-Nx;,,,,,,,l0KOd:;,,,,,,,,;o0NKo,,,,,,;xN
-k;,,,,,,,o0Ol;,,,,;:cc::,,,cOXx;,,,,,,;k
-c,,,,,,,c0Oc,,,,,clc::;;,,,,dKx,,,,,,,,c
-;,,,,,,,o0o,,,,,co:,,,,,,,,,oKd,,,,,,,,;
-,,,,,,,,oOl,,,,,cd:,,,,,,,,:xx:,,,,,,,,,
-,,,,,,,,lOo,,,,,;ldl:;,,;:ldo:,,,,,,,,,,
-:,,,,,,,:kOc,,,,,;codoollol:,,,,,,,,,,,:
-o,,,,,,,,l00l,,,,,,,,,;;,,,,,,,,,,,,,,,o
-0l,,,,,,,,lOOc,,,,,,,,,,,,,,,,,,,,,,,,l0
-W0c,,,,,,,,:dko:,,,,,,,,,,,,,,,,,,,,,l0W
-MWKo;,,,,,,,,:odoc;,,,,,,,,,,,,,,,,;oKWM
-MMMNkl;,,,,,,,,;:c:;,,,,,,,,,,,,,;lkNMMM
-MMMMWXOo:,,,,,,,,,,,,,,,,,,,,,,:oOXWMMMM
-MMMMMMMNKkoc;,,,,,,,,,,,,,,;cokKWMMMMMMM
-MMMMMMMMMMWXOdl:;,,,,,,;:ldOXWMMMMMMMMMM
+<div style="display:block;text-align:left"><a href="https://github.com/E3TU/" imageanchor="1"><img align="left" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F-XtRc3ZP3tfs%2FUN3AWUG6dlI%2FAAAAAAAADcs%2FkLIuPFfTJII%2Fs1600%2FLinux_Mint_Logo.png&f=1&nofb=1" border="0" style="width:255px;">
+  
+  ```css
+  Name: E3TU
+  Favorite Language: Javascript
+  Projects: e3tu.github.io
+  OS: Linux Mint  
+  Uptime: none
+  ```
+
+
+</div>
