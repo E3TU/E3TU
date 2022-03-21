@@ -4,7 +4,7 @@
   ------------------------------
   Name: E3TU
   Favorite Language: Javascript
-  Portfolio: e3tu.github.io
+  Portfolio: e33.netlify.app
   Operating System: Linux-Mint
   Desktop environment: Cinnamon
   Editor: Vscodium
