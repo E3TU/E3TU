@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/AMD%20Radeon_RX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
   <img src="https://img.shields.io/badge/AMD%20Ryzen_3_3100-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E3TU" style="align:center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E3TU" style="margin-left:500px;">
 
 </div>
 
