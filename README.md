@@ -1,4 +1,4 @@
-<div style="display:block;text-align:left"><img align="left" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F-XtRc3ZP3tfs%2FUN3AWUG6dlI%2FAAAAAAAADcs%2FkLIuPFfTJII%2Fs1600%2FLinux_Mint_Logo.png&f=1&nofb=1" border="0" style="width:255px;">
+<div style="display:block;text-align:left"><img align="left" src="https://imgs.search.brave.com/IU9wOlxiGlWu2860JQ_YkUvkL-cJ9RLBEdlGsmfk1m8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMDYvRmVkb3Jh/X2xvZ29fd29yZG1h/cmsucG5n" border="0" style="width:255px;">
   
   ```css
   ------------------------------
