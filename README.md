@@ -20,9 +20,7 @@
   Other
   <br><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-  <img src="https://img.shields.io/badge/AMD%20Radeon_RX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-  <img src="https://img.shields.io/badge/AMD%20Ryzen_3_3100-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
 
