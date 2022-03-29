@@ -11,6 +11,7 @@
   Uptime: Unknown
   -----------------------------
   ```
+  ```css
   <br>
   Languages
   <br>
@@ -23,6 +24,7 @@
   <br><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+  ```
 </div>
 
 
