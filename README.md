@@ -11,7 +11,7 @@
   Uptime: Unknown
   -----------------------------
   ```
-  <div style="display:block;"
+  <div style="display:block; background-color:#000;"
        <br>
   Languages
   <br>
