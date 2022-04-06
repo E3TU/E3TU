@@ -4,7 +4,7 @@
   ------------------------------
   Name: E3TU
   Favorite Language: Javascript
-  Portfolio: e33.netlify.app
+  Portfolio: e3tu.netlify.app/
   Operating System: Fedora
   Desktop environment: Gnome
   Editor: Vscodium
