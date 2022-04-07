@@ -6,7 +6,7 @@
   Favorite Language: Javascript
   Portfolio: e3tu.netlify.app/
   Operating System: Fedora
-  Desktop environment: Gnome
+  Desktop Environment: Gnome
   Editor: Vscodium
   Uptime: Unknown
   -----------------------------
