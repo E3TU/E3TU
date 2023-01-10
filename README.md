@@ -1,5 +1,5 @@
 <div>
-  <h1>Hello there👋, I'm Eetu</h1>
+  <h1 style="color:#19bb4a;">Hello there👋, I'm Eetu</h1>
   <h3 style="font-weight:bold;">Languages/Technologies</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -19,5 +19,5 @@
   <img src="https://img.shields.io/badge/VSCodium-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
    
   <h3 style="font-weight:bold;">Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=E3TU&show_icons=true&locale=en&layout=compact&theme=dark" alt="vec" />  23  
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=vue-dark">    <img  alt="E3TU's GitHub Stats"                    src="https://awesome-github-stats.azurewebsites.net/user-stats/E3TU?cardType=github&theme=vue-dark" />  </a>
 </div>
