@@ -19,5 +19,5 @@
   <img src="https://img.shields.io/badge/VSCodium-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
    
   <h3 style="font-weight:bold;">Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E3TU&layout=compact">
 </div>
