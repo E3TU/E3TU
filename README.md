@@ -19,5 +19,5 @@
   <img src="https://img.shields.io/badge/VSCodium-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
    
   <h3 style="font-weight:bold;">Stats</h3>
-   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=vue-dark">    <img  alt="E3TU's GitHub Stats"                    src="https://awesome-github-stats.azurewebsites.net/user-stats/E3TU?cardType=github&theme=vue-dark" />  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </div>
