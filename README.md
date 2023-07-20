@@ -1,5 +1,4 @@
 <div>
   <h1>Hello👋, I'm Eetu</h1>
-  <h3 style="font-weight:bold;">Stats</h3>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=E3TU&layout=compact&theme=dark">
+  <h4 style="font-weight:bold;">I learned a lot from my mistakes so i decided to make more mistakes to learn more...</h4>
 </div>
