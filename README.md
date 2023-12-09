@@ -1,4 +1,4 @@
-<h1>Hello 👋, I'm Eetu</h1>
+# Hello 👋, I'm Eetu
 
 ## 📖 About Me
 I am software developer from Finland. I mostly do web, android and linux stuff
@@ -14,8 +14,5 @@ I am software developer from Finland. I mostly do web, android and linux stuff
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ## 📊 Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=e3tu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
