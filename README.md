@@ -1,7 +1,7 @@
 # Hello 👋, I'm Eetu
 
 ## 📖 About Me
-I am software developer from Finland. I mostly do web, android and linux stuff
+**I am software developer from Finland. I mostly do web, android and linux stuff**
 
 
 ## 💻 Languages/Tools
