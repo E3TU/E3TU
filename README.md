@@ -10,4 +10,4 @@ I'm a **Software Developer** with experience in **Web**, **Android**, and **Linu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## ⚡ Currently working on
-- [Random Image Generator](https://github.com/E3TU/Svelte-Random-Image-Generator): Using svelte for frontend and AspNet for backend
+- [AspNet-VotingApp](https://github.com/E3TU/AspNet-VotingApp): Using svelte for frontend and AspNet for backend
