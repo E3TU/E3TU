@@ -10,4 +10,4 @@ I'm a **Software Developer** with experience in **Web**, **Android**, and **Linu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## ⚡ Currently working on
-- [AspNet-VotingApp](https://github.com/E3TU/AspNet-VotingApp): Simple voting app made using sveltekit and aspnet
+- [Xmr-price-scraper]([https://github.com/E3TU/AspNet-VotingApp](https://github.com/E3TU/Xmr-price-scraper)): Scraper that display price of monero
