@@ -12,7 +12,3 @@ I'm a **Software Developer** with experience in **Web**, **Android**, and **Linu
 
 ## ⚡ Currently working on
 - [go-file-manager](https://github.com/E3TU/go-file-manager): File manager with option to upload, download and delete files. Made with Sveltekit and Appwrite Go Sdk
-
-  
-## 📊 Language Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e3tu&layout=compact)
