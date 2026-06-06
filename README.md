@@ -12,4 +12,4 @@ I'm a **Software Developer** with experience in **Web**, **Android**, and **Linu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## ⚡ Currently working on
-- [go-file-manager](https://github.com/E3TU/go-file-manager): File manager with option to upload, download and delete files. Made with Sveltekit and Appwrite Go Sdk
+- [startpage](https://github.com/E3TU/startpage): Startpage/new tab page for web where you can add links and pins etc.
